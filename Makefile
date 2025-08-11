@@ -1,7 +1,7 @@
 JEMDOC = python3 ../jemdoc-python3/jemdoc.py
 OUTDIR = ./
 
-PAGES = jemdocs/home.jemdoc jemdocs/publications.jemdoc jemdocs/members.jemdoc jemdocs/activities.jemdoc jemdocs/awards.jemdoc jemdocs/group.jemdoc
+PAGES = jemdocs/index.jemdoc jemdocs/publications.jemdoc jemdocs/members.jemdoc jemdocs/activities.jemdoc jemdocs/awards.jemdoc jemdocs/group.jemdoc
 
 .SUFFIXES:
 
