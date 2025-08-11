@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html}
+# jemdoc: menu{MENU}{home.html}
 = Prof. Zhi-Quan (Tom) Luo
 The Chinese University of Hong Kong, Shenzhen
 
@@ -6,7 +6,7 @@ The Chinese University of Hong Kong, Shenzhen
 {}{img_left}{figures/photo.png}{Portrait}{180}{}
 [Email]: yourname@university.edu
 
-[Office]: Building A, Room 123
+[Office]: Building A, Room 123, test
 
 [Address]: City, Country
 ~
@@ -23,7 +23,7 @@ I am a Professor at the  Department of XXX, The Chinese University of Hong Kong,
 
 == News
 - 2025-08: Our paper "Title" accepted to Journal Z. test 
-- 2025-06: Gave a keynote at Conference Q.
+- 2025-06: Gave a keynote at Conference Q. test
 
 == Selected Links
 - [Google Scholar] https://scholar.google.com/
