@@ -1,0 +1,30 @@
+# jemdoc: menu{MENU}{index.html}
+= Prof. Zhi-Quan (Tom) Luo
+The Chinese University of Hong Kong, Shenzhen
+
+~
+{}{img_left}{figures/photo.png}{Portrait}{180}{}
+[Email]: yourname@university.edu
+
+[Office]: Building A, Room 123
+
+[Address]: City, Country
+~
+
+== About
+I am a Professor at the  Department of XXX, The Chinese University of Hong Kong, Shenzhen. My research interests include optimization, control, and machine learning.
+testtesttesttesttesttesttesttestttesttestttesttest
+
+
+== Research Interests
+- Convex optimization testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
+- Control theory testtesttesttesttesttesttesttesttesttesttesttesttesttes
+- Machine learning for systems testtesttesttesttesttesttesttesttesttesttesttesttesttes
+
+== News
+- 2025-08: Our paper "Title" accepted to Journal Z. test 
+- 2025-06: Gave a keynote at Conference Q.
+
+== Selected Links
+- [Google Scholar] https://scholar.google.com/
+- [GitHub] https://github.com/yourname
