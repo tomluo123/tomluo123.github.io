@@ -2,7 +2,6 @@
 = Members
 
 == Current Group Members:
-- [https://zyushun.github.io/ Yushun Zhang] (PhD Student)
 - [http://www.liziniu.org/ Ziniu Li] (PhD Student)
 - Juntao Wang (PhD Student)
 - [https://x.com/DmitryRybin1 Dmitry Rybin] (PhD Student)
@@ -12,16 +11,16 @@
 - Runhan Yang (PhD Student)
 - Yuyang Zhao (PhD Student)
 
-== Graduated PhD Students:
+== Former PhD Students (Partial List):
 - [https://ruoyus.github.io/ Ruoyu Sun] (Assoc. Prof., The Chinese University of Hong Kong, Shenzhen, China)
 -- *Thesis*: Matrix Completion via Nonconvex Factorization: Algorithms and Theory, U Minnesota, 2015
 - [https://sites.usc.edu/razaviyayn/ Meisam Razaviyayn] (Assoc. Prof., The University of Southern California, USA)
 -- *Thesis*: Successive convex approximation: analysis and applications, U Minnesota, 2014
-- [https://wqpu.github.io/ Wenqiang Pu] (Research Scientist, Shenzhen Research Institute of Big Data, PR China)
+- [https://wqpu.github.io/ Wenqiang Pu] (Research Scientist, Shenzhen Research Institute of Big Data, China)
 -- *Thesis*: Applications of Optimization Algorithms in Array Signal Processing, Xidian University, 2018
 - [https://jwzhang.netlify.app/ Jiawei Zhang] (Asst. Prof., University of Wisconsin–Madison, USA)
 -- *Thesis*: Proximal Primal Dual Algorithms For Nonconvex Optimization, CUHK-Shenzhen, 2021
-- [https://jiancongxiao.github.io/ Jiancong Xiao] (Postdoc., the University of Pennsylvania, USA)
+- [https://jiancongxiao.github.io/ Jiancong Xiao] (Postdoc., the University of Pennsylvania, USA; To join NUS CS department as an assistant professor)
 -- *Thesis*: Understanding Adversarially Robust Generalization: A Learning Theory Perspective, CUHK-Shenzhen, 2023
 - [https://scholar.google.com/citations?user=snkyucsAAAAJ&hl=zh-CN Shuyi Ren] (Postdoc., Linköping University, Sweden)
 -- *Thesis*:
@@ -29,7 +28,7 @@
 -- *Thesis*: Efficient Risk-aware Decision-making: A Distributional Perspective, CUHK-Shenzhen, 2024.
 - [https://scholar.google.com/citations?user=O1P1-EAAAAAJ&hl=en Congliang Chen] (Research Assistant Professor, Shenzhen Loop Area Institute, Shenzhen, China)
 -- *Thesis*: Efficient Adaptive Optimization for Large-scale Machine Learning Problems
-- [https://richardli.xyz/ Yingru Li] (Research Scientist, ByteDance, Singapore)
+- [https://richardli.xyz/ Yingru Li] (Research Scientist, XAI, Singapore)
 -- *Thesis*: Scalable Thompson Sampling for Sequential Decision Making: Theory and Algorithms
 - [https://scholar.google.com/citations?user=48VBXzUAAAAJ&hl=en Qingyan Meng] (Research Assistant Professor, Pengcheng National Laboratory, China)
 -- *Thesis*: On Accurate and Efficient Training Methods for Spiking Neural Networks
@@ -39,42 +38,41 @@
 -- *Thesis*:
 - [https://scholar.google.com/citations?user=wGyD3jIAAAAJ&hl=en Kai Li] (Senior Engineer, Huawei Technologies Co. Ltd, China)
 -- *Thesis*: Enhancing Beamforming for Limited Feedback FDD Massive MIMO Communications
-- Jinjun Xiao (Senior Engineer, Starkey Hearing Technologies)
--- *Thesis*:
-- Alireza Razavi (Senior Member, Technical Staff at Aquantia)
--- *Thesis*:
-- Yao Huang (Senior Data Scientist, Intuit)
--- *Thesis*:
-- Mikalai Kiasiliou (Senior Engineer, Intel Corporation)
--- *Thesis*:
-- Maziar Sanjabi (Staff Engineer, Starkey Hearing Technologies)
--- *Thesis*:
-- Andy Tseng (Staff Engineer, Pindrop Security)
--- *Thesis*:
-- Wei-cheng Liao (Staff Engineer, Broadcom)
--- *Thesis*:
+- [https://zyushun.github.io/ Yushun Zhang] (Postdoc., Stanford University, USA)
+-- *Thesis*: 
+- [http://www.liziniu.org/ Ziniu Li] (Research Scientist, Tencent, China)
+-- *Thesis*: Principled Exploration and Exploitation in Reinforcing Large Language Models
+- Jinjun Xiao (Senior Engineer, Starkey Hearing Technologies, USA)
+-- *Thesis*: Distributed Data Fusion and Information Processing in Wireless Sensor Networks
+- Alireza Razavi (Senior Principle DSP/Firmware Engineer, Marvell Technology, USA)
+-- *Thesis*: Distributed Optimization in an Energy-Constrained Network
+- Yao Huang (Senior Data Scientist, Intuit, USA)
+- Mikalai Kisialiou (Senior Engineer, Intel Corporation, USA)
+-- *Thesis*: Quasi-Maximum-Likelihood Detection in Digital Communications
+- [https://sites.google.com/view/maziar Maziar Sanjabi] (Research Scientist, Meta AI, USA)
+-- *Thesis*: Resource Management in Wireless Heterogeneous Networks: an Optimization Perspective
+- Andy Tseng (Machine Learning Engineer, Next Insurance, USA)
+-- *Thesis*: A Combined Statistical and Machine Learning Approach For Single Channel Speech Enhancement
+- Wei-cheng Liao (Principal System Engineer, Broadcom, USA)
+-- *Thesis*: Resource Management in Cloud-based Radio Access Networks: a Distributed Optimization Perspective
 
-== Former Master Students:
+== Former Master Students (partial list):
 - Ye Liu
 -- *Thesis*: A Primal-Dual Approach to Robust Covariance Estimation in the Presence of Non-Gaussian Interferences
-- Jingwei Mao
--- *Thesis*:
-- Boyuan Wang
--- *Thesis*:
-- Sha Lai
--- *Thesis*:
+- Jingwei Mao (PhD Student, Linköping University, Sweden)
+- Boyuan Wang (Partner, Yilifang Education Consulting, China)
+- Sha Lai 
 - Ying Li (Research Fellow, National University of Singapore, Singapore)
--- *Thesis*:
 - Liping Tang (NLP Engineer, MBZUAI, UAE)
--- *Thesis*:
 
-== Former Postdoctoral Fellows:
+== Former Postdoctoral Fellows (partial list):
 - [https://people.ece.umn.edu/~mhong/mingyi.html Mingyi Hong] (Assoc. Prof., University of Minnesota, USA)
 - [https://zhiguo-wang-scu.github.io/ Zhiguo Wang] (Assoc. Prof., Sichuan University, PR China)
 - [https://scholar.google.com/citations?user=8sX2snwAAAAJ&hl=en Baldur Steingrimsson] (Instructor, Oregon State University, USA)
+- Jos F. Sturm (Assoc. Prof., Tilburg University, Netherlands)
+- Nobuo Yamashita (Prof., Kyoto University, Japan)
 
-
-== Former Visiting Scholars and Students:
+== Former Visiting Scholars and Students (partial list):
 - [https://7ccliu.github.io/ Chengchang Liu] (PhD Student at CUHK,  PR China)
 - Xiangfeng Wang (Prof., East China Normal University,  PR China)
 - Quan-bo Ge (Prof., Nanjing University of Information Science and Technology, PR China)
@@ -87,7 +85,6 @@
 - Yafeng Liu (Prof., Beijing University of Posts and Telecommunications, PR China)
 - Qiang Li (Prof., University of Electronic Science and Technology of China, PR China)
 -  Shuzhong Zhang (Prof., University of Minnesota, USA)
--  Jos Sturm (Assoc. Prof., Tilburg University, Netherlands)
 -  Shunsuke Hayashi (Prof., Hosei University, Japan)
 - Ramy Gohary (Asst. Prof., Carleton University, Canada)
 -  Tsung-Hui Chang (Prof., The Chinese University of Hong Kong, Shenzhen, PR China)
